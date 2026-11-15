@@ -1,5 +1,3 @@
-
-
 **Student:** [SAIDI KAHINDI]  
 **Cohort:** LuxDevHQ Data Engineering / Data Analytics — Cohort 9  
 **Date:** 15 November 2026  
@@ -25,6 +23,8 @@
 QUESTION D1-D10  - `sql\00practicedrills.sql`
 
 QUESTION 1 - 5 -     `sql/section_a_ctes_subqueries.sql`  with screenshots from `q1 to q5`
+
+QUESTION 6 - 10 - `sql\section_b_window_functions.sql` with screenshotd from `q6 to q10 `
 
 # BUSINESS INSIGHTS
 
