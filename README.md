@@ -24,7 +24,9 @@ QUESTION D1-D10  - `sql\00practicedrills.sql`
 
 QUESTION 1 - 5 -     `sql/section_a_ctes_subqueries.sql`  with screenshots from `q1 to q5`
 
-QUESTION 6 - 10 - `sql\section_b_window_functions.sql` with screenshotd from `q6 to q10 `
+QUESTION 6 - 10 - `sql\section_b_window_functions.sql` with screenshots from `q6 to q10 `
+
+QUESTION 11 - 15 - `sql\section_c_advanced_aggregation.sql` with screenshots from `q11 to q15`
 
 # BUSINESS INSIGHTS
 
